@@ -5,4 +5,8 @@ public class Praktikum {
     public void setAge(int age) {
         this.age = age;
     }    
+
+    public void setWeight(int weight) {
+        this.weight = weight;
+    }
 }
